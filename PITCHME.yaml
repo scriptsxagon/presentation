@@ -6,7 +6,7 @@
 #
 theme : sky
 theme-override : assets/css/PITCHME.css
-logo : assets/image/logo.png
+logo : logo.png
 highlight : atom-one-dark
 transition : none
 published : true
