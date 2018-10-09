@@ -1,6 +1,3 @@
-### MANFAAT
-
----
 
 ### LATAR BELAKANG
 
