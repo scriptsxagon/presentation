@@ -14,7 +14,7 @@
 
 ---
 
-# PENGGUNAAN APLIKASI WEB
+# APLIKASI WEB
 
 ---
 
